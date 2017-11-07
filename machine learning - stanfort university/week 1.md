@@ -1,8 +1,10 @@
+# Introduction
+## What is machine learning?
+### 1. supervised learning
+#### regression problem
+#### classification problem
+### 2. unsupervised learning
 
-# What is machine learning?
-## supervised learning
-### regression problem
-### classification problem
-## unsupervised learning
-
-
+# Linear Regression with One Variable
+## Model Representation
+## The Hypothesis Function
