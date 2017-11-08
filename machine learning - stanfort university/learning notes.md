@@ -1,3 +1,5 @@
+## week 1
+
 ### introduction
 #### what is machine learning?
 1. supervised learning
@@ -27,6 +29,14 @@
 3. matrix vector multiplication
 * A (m * n) * A (n * 1) = A (m * 1)
 * prediction_vector = data_matrix * parameter_vector
-
-
+4. matrix matrix multiplication
+* A (m * n) * A (n * o) = A (m * o)
+* prediction_matrix = data_matrix * hypothesis_matrx
+5. matrix multiplication proporties
+* A * B != B * A
+* (A * B) * C == A * (B * C)
+* identity matrix: A * I = I * A = A
+6. inverse and transpose
+* matrix inverse: A (m * m) * A-1 = A-1 * A = I
+* matrix transpose: AT
 
